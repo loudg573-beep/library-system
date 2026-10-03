@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="createaccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboardcontrol.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userborrowedbooks.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="userbrowsebooks.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="userhistory.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="userhistoryborrowed.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="usermain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userprofile.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

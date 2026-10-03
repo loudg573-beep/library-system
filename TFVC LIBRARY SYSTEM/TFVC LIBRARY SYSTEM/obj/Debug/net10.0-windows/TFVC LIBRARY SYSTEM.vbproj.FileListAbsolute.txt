@@ -1,0 +1,22 @@
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\bin\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.exe
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\bin\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.deps.json
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\bin\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.runtimeconfig.json
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\bin\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.dll
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\bin\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.pdb
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC_LIBRARY_SYSTEM.admin.resources
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC_LIBRARY_SYSTEM.createaccount.resources
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC_LIBRARY_SYSTEM.dashboardcontrol.resources
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC_LIBRARY_SYSTEM.Form1.resources
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC_LIBRARY_SYSTEM.Resources.resources
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC_LIBRARY_SYSTEM.usermain.resources
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.vbproj.GenerateResource.cache
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.AssemblyInfo.vb
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.vbproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.dll
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\refint\TFVC LIBRARY SYSTEM.dll
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.pdb
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIBRARY SYSTEM.genruntimeconfig.cache
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\ref\TFVC LIBRARY SYSTEM.dll
+C:\Users\pc\source\repos\TFVC LIBRARY SYSTEM\TFVC LIBRARY SYSTEM\obj\Debug\net10.0-windows\TFVC LIB.1A562D1E.Up2Date
